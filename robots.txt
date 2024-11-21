@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://wshubert339.github.io/wshubert339_github_io_zp528_13.txt
+Sitemap: https://wshubert339.github.io/wshubert339_github_io_zp528_18.txt
+Sitemap: https://wshubert339.github.io/wshubert339_github_io_zp528_22.txt
+Sitemap: https://wshubert339.github.io/wshubert339_github_io_zp528_27.txt
+Sitemap: https://wshubert339.github.io/wshubert339_github_io_zp528_6.txt
